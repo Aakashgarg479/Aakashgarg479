@@ -6,9 +6,10 @@
 
 # Well, you can follow me on various social sites, links are given down below
 
-## LinkedIn - 
+## LinkedIn - https://www.linkedin.com/in/aakashgarg479/
+## Kaggle - https://www.kaggle.com/aakashgarg479
 ## Instagram - 
-## Twitter - 
+## Twitter - https://twitter.com/Aakashgarg479
 
 <!---
 Aakashgarg479/Aakashgarg479 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
