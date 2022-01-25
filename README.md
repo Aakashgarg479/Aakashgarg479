@@ -8,6 +8,7 @@
 
 ## LinkedIn - https://www.linkedin.com/in/aakashgarg479/
 ## Kaggle - https://www.kaggle.com/aakashgarg479
+## Medium - https://medium.com/@aakashgarg479
 ## Instagram - 
 ## Twitter - https://twitter.com/Aakashgarg479
 
